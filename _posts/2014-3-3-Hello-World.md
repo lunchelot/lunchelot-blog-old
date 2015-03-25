@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to lunchelot blog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Bei Lunchelot dreht sich alles um Dein Mittagessen. Wir sind ein junges Projekt, entstanden aus der eigenen Not heraus als Angestellte etwas vernünftiges zum Mitagessen zu bekommen. 
+
+Ohne viel Aufwand.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
