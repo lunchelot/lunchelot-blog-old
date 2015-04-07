@@ -2,7 +2,10 @@
 layout: page
 title: Über Uns
 permalink: /about/
+published: true
 ---
+
+### Über Lunchelot
 
 Lunchelot ist ein einfaches Tool, um Mittagstische zu suchen, Mittagsrunden mit Arbeitskollegen zu organisieren, über das System zu bestellen (und zukünftig auch zu bezahlen) und dabei viel Zeit zu sparen. Damit mehr Zeit in der Mittagspause oder nach Feierabend bleibt, um spazieren oder joggen zu gehen oder für ein Beach-Volleyball Match, wie wir das am See manchmal machen.
 
