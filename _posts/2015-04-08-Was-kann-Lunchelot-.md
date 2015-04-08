@@ -1,6 +1,7 @@
 ---
-published: true
 layout: post
+published: true
+title: Einstieg in Lunchelot - Registrierung und erste Schritte
 ---
 
 ##Wie gehts los? Registrierung
