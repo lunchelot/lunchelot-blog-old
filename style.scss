@@ -30,13 +30,17 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   font-family: $arvo;
   color: $blue;
-  font-weight: bold;
-
   line-height: 1.7;
   margin: 1em 0 15px;
+  padding: 0;
+}
+
+h3, h4, h5, h6 {
+  font-family: $opensans;
+  color: $darkGray;
   padding: 0;
 
   @include mobile {
