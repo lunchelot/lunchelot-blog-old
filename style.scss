@@ -71,6 +71,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  line-height: 1.7em;
 }
 
 a {
@@ -85,6 +86,7 @@ a {
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
+  line-height: 1.7em;
 }
 
 ul {
@@ -100,7 +102,7 @@ ol ul, ul ol, ul ul, ol ol {
 }
 
 ul ul, ol ul {
-  list-style-type: circle;
+  list-style-type: square;
 }
 
 em, i {
@@ -286,6 +288,8 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
