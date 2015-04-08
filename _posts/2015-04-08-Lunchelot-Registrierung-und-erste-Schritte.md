@@ -13,7 +13,7 @@ title: Einstieg in Lunchelot - Registrierung und erste Schritte
 
 ##Einfach und übersichtlich Mittagstische und Essens-Angebote in deiner Umgebung finden
 
-**Unter der Rubrik “Was gibt’s heute?” kannst du **
+** Unter der Rubrik “Was gibt’s heute?” kannst du **
 
 *   Die **Mittagstische und die reguläre Speisekarte** der Restaurants in deiner Umgebung schnell und einfach finden. 
 *   Mit der praktischen **Filterung oben links** kannst du gezielt nach **veganen, vegetarischen,glutenfreien** oder **scharfen Essen** suchen. 
