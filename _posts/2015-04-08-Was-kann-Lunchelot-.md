@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 
 ##Wie gehts los? Registrierung
@@ -23,4 +24,3 @@ published: false
 *   Auf der Restaurant Seite gibt es den grünen Kasten **"Mittagsrunde starten"** hierüber kannst du nette Leute einladen mit dir bei diesem Restaurant zu essen. 
 *   Außerdem kann du **bequem dein Essen vorbestellen, bestellen zum abholen oder liefern lassen**, je nachdem was das Restaurant anbietet. 
 * [Für eine ausführliche Erklärung klick hier](URL)
-
