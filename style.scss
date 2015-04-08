@@ -6,7 +6,7 @@
 //
 
 @import "reset";
-@import "variables";
+@import "variables";l
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -165,9 +165,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
   margin-right: 15px;
+  line-height: 77px;
 
   @include mobile {
     float: none;
