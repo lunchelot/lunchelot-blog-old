@@ -6,7 +6,7 @@
 //
 
 @import "reset";
-@import "variables";l
+@import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $opensans;
   color: $darkGray;
 }
 
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: $arvo;
+  color: $blue;
   font-weight: bold;
 
   line-height: 1.7;
